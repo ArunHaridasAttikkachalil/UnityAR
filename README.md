@@ -1,6 +1,6 @@
 # 🛋️ AR Interior Design App
 
-An **Android Augmented Reality (AR)** application built using **Unity**, **AR Foundation**, and **Google ARCore**. This app allows users to **place, move, rotate, and remove virtual furniture** in their real-world space using a smartphone camera. It offers an interactive and intuitive way to visualize interior design changes before making real-world decisions.
+An **Android Augmented Reality (AR)** application built using **Unity**, **AR Foundation**, and **Google ARCore**. This app allows users to **place, move, scale, rotate, and remove virtual furniture** in their real-world space using a smartphone camera. It offers an interactive and intuitive way to visualize interior design changes before making real-world decisions.
 📺 AR Furniture Project video [https://youtube.com/shorts/JAhwbVaNht0?feature=share](https://youtube.com/shorts/JAhwbVaNht0?feature=share)
 ---
 
